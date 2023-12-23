@@ -9,7 +9,7 @@ BaseDialog::BaseDialog(QWidget* parent):QDialog(parent)
 
 BaseDialog::~BaseDialog()
 {
-//我是其他文件
+//我是其他改回去的文件
 }
 
 
